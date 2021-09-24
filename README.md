@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1 align="center">
     App Orçamento Pessoal
   <img alt="AppOrçamentoPessoal" title="dtMoney" src=".github/logo.png" />
@@ -66,7 +66,4 @@ Feito por Kaic de Lima Oliveira 👋🏽 Entre em contato!
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/kaic.oliveira.587)](https://www.facebook.com/kaic.oliveira.587) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kaic.lo/)](https://www.instagram.com/kaic.lo)
 [![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:kaic10@outlook.com)](mailto:kaic10@outlook.com)
 # App Orçamento Pessoal
-=======
-# App_Orcamento_Pessoal
-Um aplicativo para controle de gastos!
->>>>>>> 579f7047d2d763e6d411b612464231862c280909
+
